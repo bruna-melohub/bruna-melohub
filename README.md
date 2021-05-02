@@ -4,7 +4,7 @@
 My name is **Bruna Brito**, I live in **Brazil** and I am a student of systems analysis and development 👩🏻‍💻
 
 <p align="center">
-#### 🌍 O segredo de progredir é começar!
+<h3> 🌍 O segredo de progredir é começar!
 </p>
 
 <p align="center">
