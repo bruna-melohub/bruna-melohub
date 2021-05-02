@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/bruna-melohub/bruna-melohub/master/image/computer-computer.png" width="350"/>
+<img align="right" src="https://github.com/bruna-melohub/bruna-melohub/blob/main/image/computer.png" width="350"/>
 
 # Hey 👋🏼
 
