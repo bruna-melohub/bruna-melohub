@@ -1,7 +1,7 @@
 # Hey 👋🏼
 
 <p align="center">
-  My name is Bruna Brito**, I live in Brazil and I am a student of systems analysis and development 👩🏻‍💻
+  My name is Bruna Brito, I live in Brazil and I am a student of systems analysis and development 👩🏻‍💻
 </p>
 
 <h3 align="center"> 🌍 O segredo de progredir é começar!
