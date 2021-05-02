@@ -1,11 +1,10 @@
 # Hey 👋🏼
 
-  
-My name is **Bruna Brito**, I live in **Brazil** and I am a student of systems analysis and development 👩🏻‍💻
-
 <p align="center">
-<h3> 🌍 O segredo de progredir é começar!
+  My name is Bruna Brito**, I live in Brazil and I am a student of systems analysis and development 👩🏻‍💻
 </p>
+
+<h3 align="center"> 🌍 O segredo de progredir é começar!
 
 <p align="center">
 <img width=300px src="https://ik.imagekit.io/6f1ildbfl1k/wp-content/uploads/2020/05/04.png">
