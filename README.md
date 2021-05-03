@@ -4,7 +4,7 @@
 
 My name is Bruna Brito, I live in Brazil and I am a student of systems analysis and development 👩🏻‍💻
 
-### O segredo de progredir é começar!
+### O segredo para progredir é começar!
 
  - 📍 São Paulo - SP 
  - 📚 I am currently attending college Bandtec
