@@ -7,7 +7,7 @@ My name is Bruna Brito, I live in Brazil and I am a student of systems analysis 
 ### O segredo para progredir é começar!
 
  - 📍 São Paulo - SP 
- - 📚 I am currently attending college Bandtec
+ - 📚 I am currently attending college Sptech
  - 💜 I am currently working at Accenture as an intern
  - 📫 How to reach me ⬇
  
