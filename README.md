@@ -2,7 +2,7 @@
 
 # Hey 👋🏼
 
-My name is Bruna Brito, I live in Brazil and I am a student of systems analysis and development 👩🏻‍💻
+My name is Bruna Mello, I live in Brazil and I am a student of systems analysis and development 👩🏻‍💻
 
 ### O segredo para progredir é começar!
 
